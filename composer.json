@@ -1,0 +1,21 @@
+{
+    "name": "kudo/colorpicker",
+    "description": "a lightweight colorpicker",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "docv",
+            "email": "docv.hcm@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "kudo\\colorpicker\\": ""
+        }
+    }
+}
